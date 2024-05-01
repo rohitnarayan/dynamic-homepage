@@ -1,0 +1,37 @@
+{
+  "page_title": {
+    "en_US": "Welcome to our Mobile Page!",
+    "fr_FR": "Bienvenue sur notre page mobile!",
+    "es_ES": "¡Bienvenido a nuestra página móvil!",
+    "hi_IN": "हमारे मोबाइल पेज में आपका स्वागत है!",
+    "id_ID": "Selamat datang di halaman mobile kami!"
+  },
+  "section1_title": {
+    "en_US": "Section 1",
+    "fr_FR": "Section 1",
+    "es_ES": "Sección 1",
+    "hi_IN": "धारा 1",
+    "id_ID": "Bagian 1"
+  },
+  "section1_content": {
+    "en_US": "This is the content of section 1.",
+    "fr_FR": "Ceci est le contenu de la section 1.",
+    "es_ES": "Este es el contenido de la sección 1.",
+    "hi_IN": "यह धारा 1 की सामग्री है।",
+    "id_ID": "Ini adalah konten bagian 1."
+  },
+  "section2_title": {
+    "en_US": "Section 2",
+    "fr_FR": "Section 2",
+    "es_ES": "Sección 2",
+    "hi_IN": "धारा 2",
+    "id_ID": "Bagian 2"
+  },
+  "section2_content": {
+    "en_US": "This is the content of section 2.",
+    "fr_FR": "Ceci est le contenu de la section 2.",
+    "es_ES": "Este es el contenido de la sección 2.",
+    "hi_IN": "यह धारा 2 की सामग्री है।",
+    "id_ID": "Ini adalah konten bagian 2."
+  }
+}

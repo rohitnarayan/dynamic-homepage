@@ -1,0 +1,13 @@
+{
+  "page_title": "page_title",
+  "sections": [
+    {
+      "title": "section1_title",
+      "content": "section1_content"
+    },
+    {
+      "title": "section2_title",
+      "content": "section2_content"
+    }
+  ]
+}
