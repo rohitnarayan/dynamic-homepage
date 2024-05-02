@@ -55,7 +55,7 @@ func main() {
 		return
 	}
 
-	language := "hi_IN" // Language to use for translation
+	language := "id_ID" // Language to use for translation
 
 	// Load mobile page from file and translate
 	page, err := LoadPageFromFile(filePath, translations, language)
@@ -64,6 +64,12 @@ func main() {
 		return
 	}
 
+	bytes, err := json.MarshalIndent(page, "", "	")
+	if err != nil {
+		fmt.Println("error occurred = ", err)
+	}
+
+	fmt.Println()
 	// Print translated mobile page
-	fmt.Println(page)
+	fmt.Printf("%+v\n", string(bytes))
 }
